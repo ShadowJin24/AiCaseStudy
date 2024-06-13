@@ -1,52 +1,29 @@
-# AiCaseStudy
-Module 1 Challenge - Writing a case study
-
-# TITLE
-
+# AEye - LiDAR And AI
 ## Overview and Origin
+The company I chose for this case study is called AEye. The company was incorporated in 2013 and the founder of the company is Luis C. Dussan. Luis Dussan worked in the aerospace and defense industry before starting up AEye. He had experience in different types of sensors for surveillance, guidance and targeting. He was exposed to LADAR/LiDAR sensors and autonomy in the defense industry. He started this company with the knowledge of LiDAR sensors in conjunction with Artificial Intelligence for automotive safety and autonomy. The company is funded by global automotive OEMs like Hella Ventures, SUBARU-SBI Innovation Fund, LG Electronics, and SK Hynix. The company is also funded by Taiwania Capital, Kleiner Perkins, Intel Capital, Airbus Ventures, R7 Partners, and an undisclosed OEM from a first round of financing. As of December 19, 2018, AEye has received over $60 million from investors. The company continues to attract partners to enhance its technology and advancement in the field of automotive safety. One such company has been LITEON.
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+>LITEON is a leading, global provider of electronic solutions for automotive OEMs around the world.  With over four decades of expertise in the automotive electronics industry, LITEON harnesses its core competencies in optoelectronics and power management to pioneer the future of automotive electronics.  Leveraging their various manufacturing facilities, LITEON supplies services from design to manufacturing to most of the top Tier 1s and OEMs in Europe and North America. ***(1)***
 
 ## Business Activities
+AEye is trying to improve automotive safety and autonomous solutions utilizing LiDAR sensor technology and Artificial Intelligence. This company wants to adapt its tech into various types of vehicles because its functionality is universal no matter the type of vehicle. The company's intended customer is for original equipment manufacturers (OEM) so that these companies can incorporate its Artificial Intelligence enhanced sensors into vehicles for safety and autonomous features. The market size for this company is vast because of all the different automobile manufacturers and any company that creates vehicles for the roads. An advantage this company utilizes is embedded Artificial Intelligence software for their LiDAR based sensors as compared to other companies that only uses hardware based sensors. Since their LiDAR sensors are embedded with Artificial Intelligence software, they can improve the capabilities for safety at any time without having the need to replace the sensor itself after it has been already installed into OEM vehicles. 
 
-* What specific problem is the company or project trying to solve?
+>VSI Labs determined that AEye’s lidar system achieved a range of more than four times, a resolution of more than five times, and scan rates of over ten times greater than LiDAR devices currently on the market. ***(2)***
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+The technologies that AEye is using are LiDAR sensors with embedded Artificial Intelligence software. The LiDAR sensor uses an amplifiable 1550 nm laser. LiDAR stands for Light Detection and Ranging. The sensor can detect vehicles at a distance of 1,000 meters, people at a distance of up to 200 meters and also small objects at a distance of 120 meters. ***(3)*** The Artificial Intelligence software takes in the information gathered by the LiDAR sensors and creates a 3D detailed map of the surroundings for the software to analyze. ***(4)***
 
 ## Landscape
-
-* What field is the company in?
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+AEye is in the field of vehicles with a focus on OEM. The company wants to improve road safety by detecting hazards at long distances and also low visibility conditions like darkness and rain.Automotive industry has been improving better sensors for safety and autonomous driving by utilizing more effective sensors and also incorporating Artificial Intelligence software to decipher the data quicker. This is very important since vehicles are equipped with so much technology and computers, vehicles should make use of it to protect the vehicle itself and its occupants. The other major companies in this field along with AEye are Robosense, Baraja, Cepton, Insight, Seagate, Valeo, Xenomatix and Hesai Technology. ***(5,6)***
 
 ## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+The business impact of this company so far has been being acknowledged and backed by major car manufacturers like Subaru. AEye also have made partnerships with other companies to better utilize their technologies together as mentioned before like LITEON. Utilizing Artificial Intelligence has greatly improved the performance of LiDAR sensors and in turn improved the safety aspects of vehicles that use AEye's products. The core metrics that companies in this field use to measure success would be the distance detection of objects, how well objects are identified, and how quickly objects are identified. AEye is performing very well with these core metrics because of the type sensors used and utilizing Artificial Intelligence software to decipher the visual data to make decisions quicker. AEye is performing very well compared to other competitors in the same field. AEye leads the pack with distance and object detection because of the use of LiDAR sensors and then expandability and data analysis with the use of Artificial Intelligence software.
 
 ## Recommendations
+After researching AEye and understanding what they have to offer and what services they are offering, I would make a suggestion of adding one or more other sensors to detect other spectrums or visual aspects on the road and allow the Artificial Intelligence software to input more data so that it can refine and improve obstacle avoidance. An example of another sensor could be a thermal sensor to detect living beings as compared to non-living objects so it makes it a priority for a vehicle not to hit a living being while navigating roads. I believe offering more sensors would benefit the company by covering other detection scenarios that their main LiDAR sensor may miss. Each type of sensor has its advantages and disadvantages for detection. By adding other types of sensors in conjunction with the main LiDAR sensor then more data can be gathered. The additional data can be analyzed by the Artificial Intelligence software and then the whole system can be more precise on decisions for the vehicle when obstacles arise in everyday driving. I believe incorporating more sensor inputs will be good because the Artificial Intelligence software needs to learn through many data inputs.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+### References 
+1.	<https://www.aeye.ai/>
+2.	<https://futurride.com/2022/05/11/aeye-demonstrates-adaptive-lidar-to-enhance-software-defined-vehicles/>
+3.	<https://www.eetimes.eu/aeye-lidar-technology-for-autonomous-vehicles/>
+4.	<https://www.sify.com/ai-analytics/eye-of-ai-why-lidar-is-key-to-future-of-artificial-intelligence/>
+5.	<https://www.cbinsights.com/company/us-ladar/alternatives-competitors>
+6.	<https://www.forbes.com/sites/sabbirrangwala/2022/05/23/automotive-lidar-has-arrived/>
